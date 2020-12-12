@@ -1,1 +1,5 @@
-server.port=9092
+data:
+  env: config-eureka-prod
+  user:
+    username: eureka-client-user
+    password: 1291029102
