@@ -1,5 +1,46 @@
-data:
-  env: config-single-dev
-  user:
-    username: single-client-user
-    password: 1291029105
+app.message.a=任务"X"已接受
+app.message.b=任务"X"已到场
+app.message.c=任务"X"排查中
+app.message.d=任务"X"维修中
+app.message.e=任务"X"完成维修
+app.message.f=您的物料申请已提交，关联任务为"X"
+app.message.g=您申请的物料已确认收到，关联任务为"X"
+app.message.h=您申请的物料已确认归还，关联任务为"X"
+
+langu.message.a=您的账户已被蓝谷管理员"X"禁用，请联系系统管理员，联系方式：110（写死）
+langu.message.b=蓝谷管理员"X"创建运营商"Y"（运营商名称）成功
+langu.message.c=蓝谷管理员"X"修改运营商"Z"（运营商名称）信息成功。运营商名称："Y"->"Z"
+langu.message.d=蓝谷管理员"X"为运营商"Y"（运营商名称）A换电站"Z"（换电站ID）
+langu.message.e=蓝谷管理员"X"为换电站"Y"（换电站ID）指派运营商"Z"（运营商名称）
+langu.message.f=运营商管理员"X"删除了物料类型"Y"
+langu.message.g=运营商管理员"X"新增了物料类型"Y"
+langu.message.h=运营商管理员"X"修改了密码
+langu.message.i=蓝谷管理员"X"删除了角色"Y"
+langu.message.j=蓝谷管理员"X"新增了角色"Y"
+langu.message.k=蓝谷管理员"X"给角色"Y"指派了权限"Z"，取消了权限"A"
+langu.message.l=蓝谷管理员"X"添加了管理员"Y"
+
+carrier.message.a=运营商管理员"X"启用/禁用了巡检员"Y"
+carrier.message.b=运营商管理员"X"重置了巡检员"Y"的密码
+carrier.message.c=运营商管理员"X"创建了巡检员"Y"
+carrier.message.d=运营商管理员"X"删除了任务"Y"
+carrier.message.e=运营商管理员"X"设定任务"Y"的评价为满意/非常满意/不满意
+carrier.message.f=运营商管理员"X"创建了排班任务"Y"
+carrier.message.g=运营商管理员"X"创建了临时任务"Y"
+carrier.message.h=运营商管理员"X"修改了物料"Y"的提醒值，原值"Z"，新值"A"
+carrier.message.i=运营商管理员"X"删除了物料"Y"
+carrier.message.j=物料"X"仅剩余"Y"个，请注意补充
+carrier.message.k=运营商管理员"X"创建了物料"Y"
+carrier.message.l=运营商管理员"X"发放了物料"Y"
+carrier.message.m=运营商管理员"X"拒绝发放了物料"Y"
+carrier.message.n=运营商管理员"X"确认了物料"Y"的归还
+carrier.message.o=运营商管理员"X"绑定了/解绑了换电站"Y"的无人值守
+carrier.message.p=运营商管理员"X"指派换电站"Y"的默认巡检员为"Z"
+carrier.message.q=运营商管理员"X"给换电站发送了控制指令，指令为："Y"(按钮名称-设备名称）
+carrier.message.r=运营商管理员"X"修改了密码
+carrier.message.s=运营商管理员"X"删除了角色"Y"
+carrier.message.t=运营商管理员"X"新建了角色"Y"
+carrier.message.u=运营商管理员"X"将角色"Y"的名称改为"Z"
+carrier.message.v=运营商管理员"X"删除了角色"Y"
+carrier.message.w=运营商管理员"X"修改了角色"Y"的权限。原权限："Z"。新权限："A"。
+carrier.message.x=运营商管理员"X"添加了管理员"Y"
